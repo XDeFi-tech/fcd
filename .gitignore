@@ -79,7 +79,6 @@ dist/
 apidoc/
 static/
 ormlogs.log
-ormconfig*
 
 public
 
